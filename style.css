@@ -1,0 +1,46 @@
+body {
+	background-color: #F6F5ED;
+
+}
+
+#me {
+	width:200px;
+	margin:0 auto;
+}
+
+#me img {
+	width: 200px;
+	border-radius: 100px;
+}
+
+h1, h2, h3 {
+	font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+	font-size:118px;
+	border-bottom: 2px dotted;
+	margin-top: 0px;
+}
+
+h2 {
+	font-size:28px;
+	border-bottom: 1px dotted;
+	margin-top: 0px;
+}
+
+h3 {
+	font-size:18px;
+	border-bottom: 1px dotted;
+	margin-top: 0px;
+}
+
+
+#container {
+	margin:0 auto;
+	width:900px;
+}
+
+#projects {
+
+}
