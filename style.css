@@ -15,32 +15,47 @@ body {
 
 h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
+	margin-top: 0px;
+	margin-bottom: 10px;
 }
 
 h1 {
-	font-size:118px;
-	border-bottom: 2px dotted;
-	margin-top: 0px;
+	font-size: 6vw;
+	text-align: center;
 }
 
 h2 {
 	font-size:28px;
 	border-bottom: 1px dotted;
-	margin-top: 0px;
 }
 
 h3 {
 	font-size:18px;
-	border-bottom: 1px dotted;
-	margin-top: 0px;
 }
 
 
 #container {
 	margin:0 auto;
-	width:900px;
+	max-width:900px;
 }
 
 #projects {
 
+}
+
+/* #### Mobile Phones Portrait #### */
+@media screen and (max-device-width: 480px) and (orientation: portrait){
+	h1 {
+		font-size: 108px;
+		text-align: center;
+	}
+
+	h2 {
+		font-size:68px;
+		border-bottom: 4px dotted;
+	}
+
+	h3 {
+		font-size:48px;
+	}
 }
