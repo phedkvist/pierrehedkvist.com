@@ -2,10 +2,111 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c6d03d-4980-4431-87b5-34e294d98988" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/favicon.ico" afterPath="$PROJECT_DIR$/favicon.ico" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowDown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowUp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/audioOff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/audioOn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/backward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/barsHorizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/barsVertical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/basket.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/button1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/button2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/button3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonA.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonB.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonL.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonL1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonL2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonR.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonR1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonR2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonSelect.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonStart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonX.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonY.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/cart.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/checkmark.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/contrast.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/cross.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/door.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/downLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/downRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/exclamation.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/exitLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/exitRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/export.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/fastForward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/film.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gear.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/import.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/information.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystick.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystickLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystickRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystickUp.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/larger.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/leaderboardsComplex.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/leaderboardsSimple.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/locked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/massiveMultiplayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/medal1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/medal2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/menuGrid.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/menuList.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/minus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mouse.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/multiplayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/musicOff.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/musicOn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/open.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/phone.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/plus.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/power.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/previous.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/question.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/return.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/rewind.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/save.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/scrollHorizontal.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/scrollVertical.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/share1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/share2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/signal1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/signal2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/signal3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/singleplayer.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/smaller.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/star.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/stop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/tablet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/target.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/trashcan.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/trashcanOpen.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/trophy.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/unlocked.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/upLeft.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/upRight.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/video.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/warning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/wrench.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoomDefault.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoomIn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoomOut.png" afterPath="" />
     </list>
     <ignored path="pierrehedkvist.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -205,12 +306,12 @@
       <workItem from="1464200771062" duration="692000" />
       <workItem from="1464613124931" duration="841000" />
       <workItem from="1465330286639" duration="3996000" />
-      <workItem from="1465335778155" duration="117000" />
+      <workItem from="1465335778155" duration="157000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5646000" />
+    <option name="totallyTimeSpent" value="5686000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
