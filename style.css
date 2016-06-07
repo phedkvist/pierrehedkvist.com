@@ -13,6 +13,20 @@ body {
 	border-radius: 100px;
 }
 
+.image {
+	overflow: hidden;
+	transition-duration: 0.8s;
+	transition-property: transform;
+}
+.image:hover {
+	transform: rotate(360deg);
+	-webkit-transform: rotate(360deg);
+}
+
+.img-header {
+	width:100%;
+}
+
 h1, h2, h3 {
 	font-family: 'Roboto', sans-serif;
 	margin-top: 0px;
@@ -20,7 +34,7 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 6vw;
+	font-size: 4vw;
 	text-align: center;
 }
 
@@ -36,7 +50,7 @@ h3 {
 
 #container {
 	margin:0 auto;
-	max-width:900px;
+	max-width:600px;
 }
 
 #projects {
@@ -45,6 +59,19 @@ h3 {
 
 /* #### Mobile Phones Portrait #### */
 @media screen and (max-device-width: 480px) and (orientation: portrait){
+
+
+	#me {
+		width:50px;
+		margin:0 auto;
+	}
+
+	#me img {
+		width: 50px;
+		border-radius: 50px;
+	}
+
+
 	h1 {
 		font-size: 108px;
 		text-align: center;
@@ -58,4 +85,5 @@ h3 {
 	h3 {
 		font-size:48px;
 	}
+
 }
