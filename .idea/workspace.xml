@@ -2,111 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c6d03d-4980-4431-87b5-34e294d98988" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowDown.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/arrowUp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/audioOff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/audioOn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/backward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/barsHorizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/barsVertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/basket.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/button1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/button2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/button3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonA.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonB.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonL.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonL1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonL2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonR.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonR1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonR2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonSelect.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonStart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonX.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/buttonY.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/cart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/checkmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/contrast.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/cross.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/door.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/down.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/downLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/downRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/exclamation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/exitLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/exitRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/export.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/fastForward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/film.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/forward.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gamepad4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/gear.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/home.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/import.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/information.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystickLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystickRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/joystickUp.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/larger.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/leaderboardsComplex.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/leaderboardsSimple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/locked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/massiveMultiplayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/medal1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/medal2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/menuGrid.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/menuList.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/minus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/mouse.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/multiplayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/musicOff.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/musicOn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/pause.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/phone.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/plus.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/power.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/previous.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/question.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/return.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/rewind.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/save.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/scrollHorizontal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/scrollVertical.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/share1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/share2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/signal1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/signal2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/signal3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/singleplayer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/smaller.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/star.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/stop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/tablet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/target.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/trashcan.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/trashcanOpen.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/trophy.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/unlocked.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/up.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/upLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/upRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/wrench.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoomDefault.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoomIn.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/icons/zoomOut.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
     </list>
     <ignored path="pierrehedkvist.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -130,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="51" />
+            <state relative-caret-position="270">
+              <caret line="18" column="221" selection-start-line="18" selection-start-column="221" selection-end-line="18" selection-end-column="221" />
               <folding />
             </state>
           </provider>
@@ -140,8 +38,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="584">
-              <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+            <state relative-caret-position="347">
+              <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -166,9 +64,9 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1920" />
-    <option name="height" value="1056" />
+    <option name="y" value="-4" />
+    <option name="width" value="1366" />
+    <option name="height" value="772" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -215,8 +113,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -307,17 +205,18 @@
       <workItem from="1464613124931" duration="841000" />
       <workItem from="1465330286639" duration="3996000" />
       <workItem from="1465335778155" duration="157000" />
+      <workItem from="1465841836203" duration="535000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5686000" />
+    <option name="totallyTimeSpent" value="6221000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15416667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15373352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -351,6 +250,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -406,16 +321,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="51" />
+        <state relative-caret-position="270">
+          <caret line="18" column="221" selection-start-line="18" selection-start-column="221" selection-end-line="18" selection-end-column="221" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="584">
-          <caret line="64" column="15" selection-start-line="64" selection-start-column="15" selection-end-line="64" selection-end-column="15" />
+        <state relative-caret-position="347">
+          <caret line="67" column="23" selection-start-line="67" selection-start-column="23" selection-end-line="67" selection-end-column="23" />
           <folding />
         </state>
       </provider>

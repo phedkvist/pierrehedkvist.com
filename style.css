@@ -1,6 +1,6 @@
 body {
 	background-color: #F6F5ED;
-
+	font-size:16px;
 }
 
 #me {
@@ -34,19 +34,23 @@ h1, h2, h3 {
 }
 
 h1 {
-	font-size: 4vw;
+	font-size: 250%;
 	text-align: center;
 }
 
 h2 {
-	font-size:28px;
+	font-size:175%;
 	border-bottom: 1px dotted;
 }
 
 h3 {
-	font-size:18px;
+	font-size:125%;
 }
 
+p {
+	font-size:100%;
+	line-height:1.2;
+}
 
 #container {
 	margin:0 auto;
@@ -60,6 +64,9 @@ h3 {
 /* #### Mobile Phones Portrait #### */
 @media screen and (max-device-width: 480px) and (orientation: portrait){
 
+	body {
+		font-size:20px;
+	}
 
 	#me {
 		width:50px;
@@ -69,21 +76,6 @@ h3 {
 	#me img {
 		width: 50px;
 		border-radius: 50px;
-	}
-
-
-	h1 {
-		font-size: 108px;
-		text-align: center;
-	}
-
-	h2 {
-		font-size:68px;
-		border-bottom: 4px dotted;
-	}
-
-	h3 {
-		font-size:48px;
 	}
 
 }
