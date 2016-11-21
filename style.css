@@ -4,6 +4,17 @@ body {
 	background-color: #FFF;
 	font-size:16px;
 	font-family: 'Open Sans', sans-serif;
+	margin:0;
+}
+
+.header-bg {
+	background-image: url('images/photo-1431512284068-4c4002298068.jpeg');
+	min-height: 600px;
+	/* Create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 
 #me {
@@ -13,7 +24,6 @@ body {
 
 #me img {
 	width: 200px;
-	border-radius: 100px;
 	border: 2px solid #000;
 }
 
@@ -21,6 +31,7 @@ body {
 	overflow: hidden;
 	transition-duration: 0.8s;
 	transition-property: transform;
+	margin-top:50px;
 }
 .image:hover {
 	transform: rotate(360deg);
@@ -30,7 +41,6 @@ body {
 .img-header {
 	width:100%;
 	border: 2px solid #000;
-	border-radius: 5px;
 }
 
 h1, h2, h3 {
@@ -41,11 +51,12 @@ h1, h2, h3 {
 h1 {
 	font-size: 250%;
 	text-align: center;
+	color: #000;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 h2 {
 	font-size:175%;
-	border-bottom: 1px dotted;
 }
 
 h3 {
@@ -57,9 +68,10 @@ p {
 	line-height:1.2;
 }
 
-#container {
+.container {
 	margin:0 auto;
 	max-width:600px;
+	padding: 10px;
 }
 
 #projects {
@@ -73,6 +85,10 @@ p {
 		font-size:18px;
 	}
 
+	.header-bg {
+		min-height: 400px;
+	}
+
 	#me {
 		width:100px;
 		margin:0 auto;
@@ -80,7 +96,6 @@ p {
 
 	#me img {
 		width: 100%;
-		border-radius: 50px;
 	}
 
 }
