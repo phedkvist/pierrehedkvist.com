@@ -7,45 +7,70 @@ body {
 	margin:0;
 }
 
-.header-bg {
-	background-image: url('images/photo-1431512284068-4c4002298068.jpeg');
-	min-height: 600px;
-	/* Create the parallax scrolling effect */
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-
 #me {
 	width:200px;
 	margin:0 auto;
 }
 
-#me img {
+#me .me-img {
 	width: 200px;
 	border: 2px solid #000;
-}
-
-.image {
 	overflow: hidden;
 	transition-duration: 0.8s;
 	transition-property: transform;
 	margin-top:50px;
 }
-.image:hover {
+#me .me-img:hover {
 	transform: rotate(360deg);
 	-webkit-transform: rotate(360deg);
 }
 
-.img-header {
-	width:100%;
-	border: 2px solid #000;
+#about {
+	width:400px;
+	margin: 0 auto;
+}
+
+#contact {
+	width: 300px;
+	margin:0 auto;
+	text-align: center;
+}
+
+.contact-icon {
+	width: 30px;
+}
+
+.contact-icon:hover {
+	opacity: 0.6;
+}
+
+#work {
+	margin:0 auto;
+	padding: 10px;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+#work .work-item {
+	width: 23%;
+	margin: 1%
+}
+
+.work-img {
+	 width:100%;
+	 border: 2px solid #000;
+	 opacity: 0.4;
+}
+
+.work-img:hover {
+	opacity: 1;
 }
 
 h1, h2, h3 {
 	margin-top: 0px;
 	margin-bottom: 10px;
+	text-align: center;
 }
 
 h1 {
@@ -68,15 +93,30 @@ p {
 	line-height:1.2;
 }
 
-.container {
-	margin:0 auto;
-	max-width:600px;
-	padding: 10px;
+
+/* #### Tablets #### */
+@media only screen and (max-width: 1025px) {
+
+	body {
+		font-size:18px;
+	}
+
+	#me {
+		width:200px;
+		margin:0 auto;
+	}
+
+	#me img {
+		width: 100%;
+	}
+
+	#work .work-item {
+		width: 48%;
+		margin: 1%
+	}
+
 }
 
-#projects {
-
-}
 
 /* #### Mobile Phones Portrait #### */
 @media only screen and (max-width: 767px) {
@@ -85,17 +125,18 @@ p {
 		font-size:18px;
 	}
 
-	.header-bg {
-		min-height: 400px;
-	}
-
 	#me {
-		width:100px;
+		width:200px;
 		margin:0 auto;
 	}
 
 	#me img {
 		width: 100%;
+	}
+
+	#work .work-item {
+		width: 96%;
+		margin: 1%
 	}
 
 }
