@@ -14,15 +14,10 @@ body {
 
 #me .me-img {
 	width: 200px;
-	border: 2px solid #000;
+	border: 2px solid lightgrey;
+	border-radius:4px;
 	overflow: hidden;
-	transition-duration: 0.8s;
-	transition-property: transform;
 	margin-top:50px;
-}
-#me .me-img:hover {
-	transform: rotate(360deg);
-	-webkit-transform: rotate(360deg);
 }
 
 #about {
@@ -59,12 +54,8 @@ body {
 
 .work-img {
 	 width:100%;
-	 border: 2px solid #000;
-	 opacity: 0.4;
-}
-
-.work-img:hover {
-	opacity: 1;
+	 border: 2px solid lightgrey;
+	 border-radius:4px;
 }
 
 h1, h2, h3 {
