@@ -7,6 +7,10 @@ body {
 	margin:0;
 }
 
+.container {
+	max-width: 700px;
+}
+
 #me {
 	width:200px;
 	margin:0 auto;
@@ -48,40 +52,14 @@ body {
 }
 
 #work .work-item {
-	width: 23%;
-	margin: 1%
+	width: 46%;
+	margin: 1% 1% 0 0;
 }
 
 .work-img {
 	 width:100%;
 	 border: 2px solid lightgrey;
 	 border-radius:4px;
-}
-
-h1, h2, h3 {
-	margin-top: 0px;
-	margin-bottom: 10px;
-	text-align: center;
-}
-
-h1 {
-	font-size: 250%;
-	text-align: center;
-	color: #000;
-	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
-}
-
-h2 {
-	font-size:175%;
-}
-
-h3 {
-	font-size:125%;
-}
-
-p {
-	font-size:100%;
-	line-height:1.2;
 }
 
 
@@ -103,7 +81,7 @@ p {
 
 	#work .work-item {
 		width: 48%;
-		margin: 1%
+		margin: 1% 1% 0 0;
 	}
 
 }
